@@ -45,7 +45,7 @@ function Planet({ name, color, size, orbitRadius, orbitSpeed, rotationSpeed, fac
       {active && (
         <Html position={[positionOnOrbit[0], positionOnOrbit[1] + size + 1, positionOnOrbit[2]]}>
           <div style={{ 
-            background: 'rgba(0,0,0,0.8)', 
+            background: 'rgba(0,0,0,0.8)',
             color: 'white', 
             padding: '10px', 
             borderRadius: '5px', 
