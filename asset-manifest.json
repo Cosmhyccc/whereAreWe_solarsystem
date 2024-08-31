@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whereAreWe_solarsystem/static/css/main.7ce9a567.css",
+    "main.js": "/whereAreWe_solarsystem/static/js/main.fd2a0e40.js",
+    "index.html": "/whereAreWe_solarsystem/index.html",
+    "main.7ce9a567.css.map": "/whereAreWe_solarsystem/static/css/main.7ce9a567.css.map",
+    "main.fd2a0e40.js.map": "/whereAreWe_solarsystem/static/js/main.fd2a0e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce9a567.css",
+    "static/js/main.fd2a0e40.js"
+  ]
+}
